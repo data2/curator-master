@@ -11,5 +11,12 @@
 
     <artifactId>muskteer-curator-zk</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.5</version>
+        </dependency>
+    </dependencies>
 
 </project>
